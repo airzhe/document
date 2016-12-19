@@ -76,7 +76,7 @@
 
 前端： html 、css、js、 jQuery、angular js
 
-后端：  php、mysql、nginx、redis，熟悉 sed 、awk 等文本处理工具，了解 openrestry 、docker、wiresharek
+后端：  php、mysql、nginx、redis，熟悉 sed 、awk 等文本处理工具，了解 openresty 、docker、wireshark
 
  
 
